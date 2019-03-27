@@ -1,0 +1,2627 @@
+
+aalmutaw
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/aalmutaw/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/aalmutaw/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/aalmutaw/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 3892) (out= 1859)(deflated 52%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+abellouz
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/abellouz/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/abellouz/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/abellouz/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4283) (out= 2122)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+abenabba
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/abenabba/Makefile
+========== Performance Evaluation ==========
+rm -f Complex.class ComplexTest.class
+========== Specification Evaluation ==========
+ GRADE = -5/100 
+
+abuznego
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/abuznego/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/abuznego/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/abuznego/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 3970) (out= 1993)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+acarndt
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/acarndt/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/acarndt/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/acarndt/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4066) (out= 2048)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+adoubekk
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/adoubekk/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/adoubekk/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/adoubekk/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4097) (out= 2047)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+aenoble
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/aenoble/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/aenoble/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/aenoble/Makefile
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/aenoble/Makefile.mak
+========== Performance Evaluation ==========
+javac -Xlint Complex.java
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+========== Specification Evaluation ==========
+ GRADE = 61/100 
+
+alrumill
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/alrumill/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/alrumill/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/alrumill/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 3876) (out= 1916)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+amalotai
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/amalotai/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/amalotai/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/amalotai/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4091) (out= 2027)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+amccree
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/amccree/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/amccree/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/amccree/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4283) (out= 2126)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+amloeza
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/amloeza/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/amloeza/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/amloeza/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 972)(deflated 41%)
+adding: Complex.class(in = 4280) (out= 2118)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+amorley
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/amorley/Makefile
+========== Performance Evaluation ==========
+rm -f Complex.class ComplexTest.class
+========== Specification Evaluation ==========
+ GRADE = -4/100 
+
+apblair
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/apblair/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/apblair/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/apblair/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4280) (out= 2126)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+asakasai
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/asakasai/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/asakasai/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/asakasai/Makefile
+========== Performance Evaluation ==========
+-2.0 + 8.0i
+14.1 + 1.7999999999999998i
+9.0 + -8.0i
+0.0 + 10.35i
+-6.7 + -8.9i
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1810) (out= 1034)(deflated 42%)
+adding: Complex.class(in = 3816) (out= 1949)(deflated 48%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+
+atuason
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/atuason/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/atuason/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/atuason/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 3825) (out= 1929)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 77/100 
+
+bdarling
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/bdarling/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/bdarling/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/bdarling/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4363) (out= 2201)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 99/100 
+
+bmondrag
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/bmondrag/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/bmondrag/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/bmondrag/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 3987) (out= 2027)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+brpham
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/brpham/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/brpham/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/brpham/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4222) (out= 2170)(deflated 48%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+bseme
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/bseme/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/bseme/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/bseme/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 2287) (out= 1121)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 77/100 
+
+cabundis
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/cabundis/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/cabundis/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/cabundis/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4275) (out= 2119)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+carriaga
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/carriaga/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/carriaga/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/carriaga/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4189) (out= 2101)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+ceaoliva
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/ceaoliva/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/ceaoliva/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/ceaoliva/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4140) (out= 2087)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+chackett
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/chackett/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/chackett/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/chackett/Makefile
+========== Performance Evaluation ==========
+javac -Xlint ComplexTest.java
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+========== Specification Evaluation ==========
+ GRADE = 57/100 
+
+chmabake
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/chmabake/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/chmabake/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/chmabake/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 3836) (out= 1863)(deflated 51%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 74/100 
+
+chshsmit
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/chshsmit/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/chshsmit/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/chshsmit/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1663) (out= 970)(deflated 41%)
+adding: Complex.class(in = 4172) (out= 2027)(deflated 51%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 77/100 
+
+ckstone
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/ckstone/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/ckstone/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/ckstone/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1663) (out= 969)(deflated 41%)
+adding: Complex.class(in = 3704) (out= 1764)(deflated 52%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+clamaral
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/clamaral/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/clamaral/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/clamaral/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4105) (out= 2023)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 94/100 
+
+cnpena
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/cnpena/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/cnpena/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/cnpena/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4142) (out= 2058)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 97/100 
+
+coahoust
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/coahoust/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/coahoust/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/coahoust/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 3908) (out= 1906)(deflated 51%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 77/100 
+
+comhowar
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/comhowar/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/comhowar/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/comhowar/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4280) (out= 2131)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+cppizarr
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/cppizarr/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/cppizarr/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/cppizarr/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4218) (out= 2139)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 85/100 
+
+cvu5
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/cvu5/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/cvu5/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/cvu5/Makefile
+========== Performance Evaluation ==========
+javac -Xlint ComplexTest.java
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+========== Specification Evaluation ==========
+ GRADE = 57/100 
+
+dakchin
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/dakchin/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/dakchin/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/dakchin/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4150) (out= 2092)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+dcejamar
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/dcejamar/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/dcejamar/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/dcejamar/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4281) (out= 2121)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+dchiong
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/dchiong/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/dchiong/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/dchiong/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4186) (out= 2092)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+ddang3
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/ddang3/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/ddang3/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/ddang3/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4111) (out= 2094)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+eblank
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/eblank/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/eblank/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/eblank/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 3841) (out= 1911)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+egutier9
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/egutier9/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/egutier9/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/egutier9/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4111) (out= 2033)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 77/100 
+
+eramitch
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/eramitch/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/eramitch/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/eramitch/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4201) (out= 2079)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+eresendi
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/eresendi/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/eresendi/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/eresendi/makefile
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/eresendi/Makefile
+========== Performance Evaluation ==========
+javac -Xlint ComplexTest.java
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+========== Specification Evaluation ==========
+ GRADE = 55/100 
+
+erobles5
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/erobles5/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/erobles5/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/erobles5/Makefile
+========== Performance Evaluation ==========
+javac -Xlint ComplexTest.java
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+========== Specification Evaluation ==========
+ GRADE = 54/100 
+
+fconnor
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/fconnor/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/fconnor/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/fconnor/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1544) (out= 927)(deflated 39%)
+adding: Complex.class(in = 4090) (out= 2055)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+
+gbiles
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/gbiles/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/gbiles/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/gbiles/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4237) (out= 2111)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+gjorgens
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/gjorgens/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/gjorgens/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/gjorgens/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4283) (out= 2127)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+grekhtma
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/grekhtma/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/grekhtma/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/grekhtma/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 972)(deflated 41%)
+adding: Complex.class(in = 4300) (out= 2094)(deflated 51%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 85/100 
+
+hpperez
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/hpperez/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/hpperez/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/hpperez/Makefile
+========== Performance Evaluation ==========
+javac -Xlint Complex.java
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+========== Specification Evaluation ==========
+ GRADE = 62/100 
+
+hslu
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/hslu/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/hslu/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/hslu/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4130) (out= 2071)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+hwang54
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/hwang54/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/hwang54/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/hwang54/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 972)(deflated 41%)
+adding: Complex.class(in = 4130) (out= 2108)(deflated 48%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+hwhitehi
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/hwhitehi/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/hwhitehi/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/hwhitehi/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 3914) (out= 1893)(deflated 51%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 77/100 
+
+jaakirby
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jaakirby/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jaakirby/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jaakirby/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 3925) (out= 1939)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 97/100 
+
+jahua
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jahua/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jahua/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jahua/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4295) (out= 2114)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jajurado
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jajurado/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jajurado/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jajurado/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4140) (out= 2063)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jaortega
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jaortega/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jaortega/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jaortega/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4108) (out= 2036)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 97/100 
+
+jceisner
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jceisner/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jceisner/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jceisner/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4194) (out= 2122)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jchu27
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jchu27/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jchu27/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jchu27/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4540) (out= 2175)(deflated 52%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 72/100 
+
+jcopher
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jcopher/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jcopher/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jcopher/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4047) (out= 2021)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jcsoper
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jcsoper/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jcsoper/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jcsoper/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 971)(deflated 41%)
+adding: Complex.class(in = 3746) (out= 1801)(deflated 51%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jdarby
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jdarby/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jdarby/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jdarby/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1663) (out= 970)(deflated 41%)
+adding: Complex.class(in = 4050) (out= 1992)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jdekloe
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jdekloe/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jdekloe/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jdekloe/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4240) (out= 2166)(deflated 48%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 77/100 
+
+jdelgad4
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jdelgad4/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jdelgad4/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jdelgad4/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4105) (out= 2034)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jdlammer
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jdlammer/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jdlammer/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jdlammer/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4257) (out= 2121)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jetrata
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jetrata/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jetrata/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jetrata/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4897) (out= 2402)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jfyang
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jfyang/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jfyang/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jfyang/Makefile
+========== Performance Evaluation ==========
+Re(2+3i) = 2.0
+Im(2+3i) = 3.0
+Re(-4+5i) = -4.0
+Im(-4+5i) = 5.0
+Re(6.1-7.2i) = 6.1
+Im(6.1-7.2i) = -7.2
+Re(-8-9i) = -8.0
+Im(-8-9i) = -9.0
+Re(2.3) = 2.3
+Im(2.3) = 0.0
+Re(4.5i) = 0.0
+Im(4.5i) = 4.5
+Re(6.7 - 8.9i) = 6.7
+Im(6.7 - 8.9i) = -8.9
+Re(-4.4 + 5i) = -4.4
+Im(-4.4 + 5i) = 5.0
+Re(i) = 0.0
+Im(i) = 1.0
+Re(1-i) = 1.0
+Im(1-i) = -1.0
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4181) (out= 2095)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jgeri
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jgeri/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jgeri/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jgeri/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4009) (out= 1983)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jjuanill
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jjuanill/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jjuanill/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jjuanill/Makefile
+========== Performance Evaluation ==========
+javac -Xlint ComplexTest.java
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+========== Specification Evaluation ==========
+ GRADE = 57/100 
+
+jlcarlos
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jlcarlos/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jlcarlos/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jlcarlos/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 972)(deflated 41%)
+adding: Complex.class(in = 4053) (out= 2004)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jlei4
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jlei4/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jlei4/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jlei4/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4105) (out= 2035)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jmoral18
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jmoral18/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jmoral18/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jmoral18/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4061) (out= 1988)(deflated 51%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jmroger
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jmroger/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jmroger/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jmroger/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4039) (out= 1992)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jmwaller
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jmwaller/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jmwaller/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jmwaller/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 971)(deflated 41%)
+adding: Complex.class(in = 3709) (out= 1826)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+
+jorblumb
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jorblumb/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jorblumb/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jorblumb/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4194) (out= 2127)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+josholme
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/josholme/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/josholme/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/josholme/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 970)(deflated 41%)
+adding: Complex.class(in = 4283) (out= 2127)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+joyun
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/joyun/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/joyun/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/joyun/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 3986) (out= 1957)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 77/100 
+
+jran4
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jran4/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jran4/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jran4/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1663) (out= 970)(deflated 41%)
+adding: Complex.class(in = 4446) (out= 2264)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jsono
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jsono/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jsono/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jsono/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4280) (out= 2118)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 97/100 
+
+jsvanden
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jsvanden/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jsvanden/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jsvanden/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 3959) (out= 1954)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jucsalaz
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jucsalaz/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jucsalaz/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jucsalaz/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 972)(deflated 41%)
+adding: Complex.class(in = 4169) (out= 2073)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jxu43
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jxu43/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jxu43/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jxu43/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1663) (out= 971)(deflated 41%)
+adding: Complex.class(in = 4458) (out= 2268)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jzhao26
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jzhao26/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jzhao26/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/jzhao26/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4359) (out= 2207)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 85/100 
+
+kapalaci
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kapalaci/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kapalaci/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kapalaci/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4279) (out= 2119)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+kbrar
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kbrar/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kbrar/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kbrar/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4145) (out= 2065)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 97/100 
+
+kdhua
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kdhua/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kdhua/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kdhua/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 972)(deflated 41%)
+adding: Complex.class(in = 3772) (out= 1875)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+kehutran
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kehutran/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kehutran/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kehutran/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 972)(deflated 41%)
+adding: Complex.class(in = 4051) (out= 2053)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 74/100 
+
+kflores2
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kflores2/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kflores2/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kflores2/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 3816) (out= 1940)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+
+kharpe2
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kharpe2/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kharpe2/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kharpe2/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4347) (out= 2150)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+kivaldez
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kivaldez/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kivaldez/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kivaldez/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4107) (out= 2038)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+krosengr
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/krosengr/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/krosengr/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/krosengr/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4073) (out= 2010)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+kyajohns
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kyajohns/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kyajohns/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/kyajohns/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4060) (out= 2035)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 97/100 
+
+latanner
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/latanner/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/latanner/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/latanner/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4276) (out= 2175)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 97/100 
+
+lhyndman
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/lhyndman/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/lhyndman/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/lhyndman/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4028) (out= 1988)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+ljiang2
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/ljiang2/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/ljiang2/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/ljiang2/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1663) (out= 970)(deflated 41%)
+adding: Complex.class(in = 4034) (out= 1974)(deflated 51%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+maecabre
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/maecabre/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/maecabre/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/maecabre/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4400) (out= 2113)(deflated 51%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+
+maegaspa
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/maegaspa/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/maegaspa/ComplexText.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/maegaspa/Makefile
+========== Performance Evaluation ==========
+rm -f Complex.class ComplexTest.class
+========== Specification Evaluation ==========
+ GRADE = 64/100 
+
+malngo
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/malngo/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/malngo/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/malngo/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4630) (out= 2205)(deflated 52%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+mbonzo
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mbonzo/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mbonzo/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mbonzo/Makefile
+========== Performance Evaluation ==========
+javac -Xlint ComplexTest.java
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+========== Specification Evaluation ==========
+ GRADE = 62/100 
+
+mdusanic
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mdusanic/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mdusanic/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mdusanic/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4037) (out= 1963)(deflated 51%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+mflapoin
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mflapoin/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mflapoin/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mflapoin/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4066) (out= 1968)(deflated 51%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+mfulton
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mfulton/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mfulton/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mfulton/Makefile
+========== Performance Evaluation ==========
+javac -Xlint Complex.java
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+========== Specification Evaluation ==========
+ GRADE = 54/100 
+
+mhoshko
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mhoshko/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mhoshko/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mhoshko/Makefile
+========== Performance Evaluation ==========
+Re(2+3i) = 2.0
+Im(2+3i) = 3.0
+Re(-4+5i) = -4.0
+Im(-4+5i) = 5.0
+Re(6.1-7.2i) = 6.1
+Im(6.1-7.2i) = -7.2
+Re(-8-9i) = -8.0
+Im(-8-9i) = -9.0
+Re(2.3) = 2.3
+Im(2.3) = 0.0
+Re(4.5i) = 0.0
+Im(4.5i) = 4.5
+Re(6.7 - 8.9i) = 6.7
+Im(6.7 - 8.9i) = -8.9
+Re(-4.4 + 5i) = -4.4
+Im(-4.4 + 5i) = 5.0
+Re(i) = 0.0
+Im(i) = 1.0
+Re(1-i) = 1.0
+Im(1-i) = -1.0
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4194) (out= 2104)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 97/100 
+
+migamboa
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/migamboa/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/migamboa/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/migamboa/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1590) (out= 930)(deflated 41%)
+adding: Complex.class(in = 3858) (out= 1914)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 74/100 
+
+mlagapa
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mlagapa/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mlagapa/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mlagapa/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4194) (out= 2126)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+mmmayr
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mmmayr/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mmmayr/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mmmayr/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1674) (out= 975)(deflated 41%)
+adding: Complex.class(in = 4304) (out= 2210)(deflated 48%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 97/100 
+
+momhassa
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/momhassa/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/momhassa/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/momhassa/Makefile
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/momhassa/Makefile.mak
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4283) (out= 2124)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 99/100 
+
+mopowell
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mopowell/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mopowell/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mopowell/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4093) (out= 2017)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+mstorrs
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mstorrs/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mstorrs/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mstorrs/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4345) (out= 2134)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+mvillal4
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mvillal4/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mvillal4/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mvillal4/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4203) (out= 2111)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+mwoehr
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mwoehr/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mwoehr/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/mwoehr/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 3863) (out= 1922)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+nikalant
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/nikalant/Makefile
+========== Performance Evaluation ==========
+rm -f Complex.class ComplexTest.class
+========== Specification Evaluation ==========
+ GRADE = -4/100 
+
+njiang8
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/njiang8/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/njiang8/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/njiang8/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4043) (out= 1998)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+nmaines
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/nmaines/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/nmaines/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/nmaines/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4279) (out= 2125)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+nsharma7
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/nsharma7/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/nsharma7/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/nsharma7/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 972)(deflated 41%)
+adding: Complex.class(in = 3961) (out= 1955)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+
+ocastroa
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/ocastroa/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/ocastroa/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/ocastroa/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 3904) (out= 1941)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 97/100 
+
+ocjohnso
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/ocjohnso/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/ocjohnso/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/ocjohnso/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4091) (out= 2061)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+oyuen
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/oyuen/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/oyuen/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/oyuen/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4108) (out= 2038)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+pgarciaa
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/pgarciaa/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/pgarciaa/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/pgarciaa/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4022) (out= 2024)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+qzhang20
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/qzhang20/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/qzhang20/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/qzhang20/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4087) (out= 1958)(deflated 52%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+qzhang21
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/qzhang21/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/qzhang21/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/qzhang21/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1663) (out= 970)(deflated 41%)
+adding: Complex.class(in = 4022) (out= 1956)(deflated 51%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+rccho
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rccho/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rccho/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rccho/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4014) (out= 1968)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+rdfelix
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rdfelix/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rdfelix/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rdfelix/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4036) (out= 1956)(deflated 51%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+rflore8
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rflore8/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rflore8/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rflore8/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4192) (out= 2065)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+rgarrido
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rgarrido/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rgarrido/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rgarrido/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4155) (out= 2043)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+rkarpins
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rkarpins/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rkarpins/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rkarpins/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4108) (out= 2038)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+rlovejoy
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rlovejoy/Makefile
+========== Performance Evaluation ==========
+rm -f Complex.class ComplexTest.class
+========== Specification Evaluation ==========
+ GRADE = -4/100 
+
+rlukkoor
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rlukkoor/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rlukkoor/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rlukkoor/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4108) (out= 2031)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+rmendezv
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rmendezv/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rmendezv/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rmendezv/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 3903) (out= 1919)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+rpons
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rpons/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rpons/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rpons/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4129) (out= 2035)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 74/100 
+
+rsandhu2
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rsandhu2/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rsandhu2/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rsandhu2/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4286) (out= 2174)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+rychoy
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rychoy/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rychoy/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rychoy/Makefile
+========== Performance Evaluation ==========
+javac -Xlint ComplexTest.java
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+========== Specification Evaluation ==========
+ GRADE = 62/100 
+
+rzimpfer
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rzimpfer/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rzimpfer/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/rzimpfer/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4049) (out= 2009)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 99/100 
+
+salcheun
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/salcheun/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/salcheun/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/salcheun/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 3979) (out= 1981)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+sapandey
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/sapandey/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/sapandey/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/sapandey/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4145) (out= 2061)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+sasshah
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/sasshah/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/sasshah/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/sasshah/Makefile
+========== Performance Evaluation ==========
+javac -Xlint ComplexTest.java
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+========== Specification Evaluation ==========
+ GRADE = 54/100 
+
+sdysart
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/sdysart/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/sdysart/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/sdysart/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 974)(deflated 41%)
+adding: Complex.class(in = 4135) (out= 2007)(deflated 51%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 94/100 
+
+shester
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/shester/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/shester/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/shester/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 972)(deflated 41%)
+adding: Complex.class(in = 4107) (out= 2040)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+smarinac
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/smarinac/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/smarinac/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/smarinac/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 3974) (out= 1935)(deflated 51%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+smaspell
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/smaspell/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/smaspell/Makefile
+========== Performance Evaluation ==========
+rm -f Complex.class ComplexTest.class
+========== Specification Evaluation ==========
+ GRADE = 63/100 
+
+smeus
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/smeus/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/smeus/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/smeus/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4105) (out= 2037)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 94/100 
+
+soly
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/soly/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/soly/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/soly/makefile
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/soly/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 972)(deflated 41%)
+adding: Complex.class(in = 4101) (out= 2041)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 93/100 
+
+stang24
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/stang24/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/stang24/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/stang24/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4333) (out= 2185)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+stderami
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/stderami/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/stderami/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/stderami/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4012) (out= 1978)(deflated 50%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+summarti
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/summarti/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/summarti/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/summarti/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4080) (out= 2068)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+syaswen
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/syaswen/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/syaswen/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/syaswen/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4121) (out= 1992)(deflated 51%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+tawilson
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/tawilson/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/tawilson/Makefile
+========== Performance Evaluation ==========
+rm -f Complex.class ComplexTest.class
+========== Specification Evaluation ==========
+ GRADE = 57/100 
+
+tfraz
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/tfraz/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/tfraz/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/tfraz/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4064) (out= 2056)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+tzhang24
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/tzhang24/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/tzhang24/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/tzhang24/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1663) (out= 970)(deflated 41%)
+adding: Complex.class(in = 3878) (out= 1894)(deflated 51%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 96/100 
+
+xzhang52
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/xzhang52/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/xzhang52/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/xzhang52/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4130) (out= 2112)(deflated 48%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+xzhang54
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/xzhang54/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/xzhang54/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/xzhang54/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4087) (out= 1958)(deflated 52%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+xzhang57
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/xzhang57/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/xzhang57/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/xzhang57/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1663) (out= 969)(deflated 41%)
+adding: Complex.class(in = 3880) (out= 1901)(deflated 51%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 76/100 
+
+zgalvez
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/zgalvez/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/zgalvez/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/zgalvez/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 3887) (out= 1984)(deflated 48%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+
+zholbroo
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/zholbroo/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/zholbroo/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/zholbroo/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1672) (out= 973)(deflated 41%)
+adding: Complex.class(in = 4086) (out= 2046)(deflated 49%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+zihliu
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/zihliu/Makefile
+========== Performance Evaluation ==========
+rm -f Complex.class ComplexTest.class
+========== Specification Evaluation ==========
+ GRADE = -4/100 
+
+zjiang7
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/zjiang7/Complex.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/zjiang7/ComplexTest.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa6/zjiang7/Makefile
+========== Performance Evaluation ==========
+make: `ComplexTest' is up to date.
+rm -f Complex.class ComplexTest.class
+javac -Xlint ComplexTest.java
+echo Main-class: ComplexTest > Manifest
+jar cvfm ComplexTest Manifest ComplexTest.class Complex.class
+added manifest
+adding: ComplexTest.class(in = 1663) (out= 970)(deflated 41%)
+adding: Complex.class(in = 3878) (out= 1898)(deflated 51%)
+rm Manifest
+chmod u+x ComplexTest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+DONE
+

@@ -1,0 +1,1730 @@
+aalmutaw
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/aalmutaw/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/aalmutaw/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2204) (out= 1376)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+abellouz
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/abellouz/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/abellouz/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2215) (out= 1381)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class
+========== Specification Evaluation ==========
+ GRADE = 93/100 
+abenabba
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/abenabba/roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/abenabba/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/abenabba/Makefile
+========== Performance Evaluation ==========
+javac -Xlint Roots.java
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2884) (out= 1812)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm –f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 38/100 
+abuznego
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/abuznego/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/abuznego/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2551) (out= 1499)(deflated 41%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+acarndt
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/acarndt/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/acarndt/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2160) (out= 1352)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+adoubekk
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/adoubekk/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/adoubekk/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2324) (out= 1400)(deflated 39%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+aenoble
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/aenoble/roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/aenoble/Makefile.txt
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 41/100 
+alrumill
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/alrumill/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/alrumill/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2006) (out= 1243)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 92/100 
+amalotai
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/amalotai/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/amalotai/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Manifest Roots.class
+added manifest
+adding: Manifest(in = 18) (out= 20)(deflated -11%)
+adding: Roots.class(in = 2235) (out= 1376)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+amccree
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/amccree/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/amccree/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class 
+added manifest
+adding: Roots.class(in = 2172) (out= 1379)(deflated 36%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 92/100 
+amloeza
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/amloeza/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/amloeza/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2866) (out= 1817)(deflated 36%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+amorley
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/amorley/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/amorley/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2154) (out= 1348)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+apblair
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/apblair/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/apblair/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2195) (out= 1362)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 96/100 
+asakasai
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/asakasai/Roots.java
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+atuason
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/atuason/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/atuason/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2185) (out= 1370)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm-f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 97/100 
+bdarling
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/bdarling/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/bdarling/Makefile
+========== Performance Evaluation ==========
+javac -Xlint Roots.java
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 57/100 
+bmondrag
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/bmondrag/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/bmondrag/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2347) (out= 1442)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+briverav
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/briverav/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/briverav/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2988) (out= 1845)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 94/100 
+brpham
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/brpham/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/brpham/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2508) (out= 1506)(deflated 39%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 99/100 
+bseme
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/bseme/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/bseme/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2683) (out= 1724)(deflated 35%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+cabundis
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/cabundis/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/cabundis/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 57/100 
+carriaga
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/carriaga/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/carriaga/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 94/100 
+chackett
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/chackett/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/chackett/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2186) (out= 1359)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+chmabake
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/chmabake/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/chmabake/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 52/100 
+chshsmit
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/chshsmit/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/chshsmit/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 64/100 
+ckstone
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/ckstone/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/ckstone/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2259) (out= 1403)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+clamaral
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/clamaral/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/clamaral/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 49/100 
+cnpena
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/cnpena/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/cnpena/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 3024) (out= 1833)(deflated 39%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+coahoust
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/coahoust/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/coahoust/Makefile
+========== Performance Evaluation ==========
+make: `Roots.class' is up to date.
+rm Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 91/100 
+comhowar
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/comhowar/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/comhowar/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2412) (out= 1507)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm –f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 94/100 
+cppizarr
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/cppizarr/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/cppizarr/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2170) (out= 1333)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+cvu5
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/cvu5/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/cvu5/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 56/100 
+dakchin
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/dakchin/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/dakchin/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2420) (out= 1489)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+dcejamar
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/dcejamar/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/dcejamar/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2189) (out= 1363)(deflated 37%)
+rm Manifest
+chmod u+v Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 72/100 
+dchiong
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/dchiong/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/dchiong/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2312) (out= 1448)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 99/100 
+ddang3
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/ddang3/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/ddang3/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2725) (out= 1626)(deflated 40%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+dweldega
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/dweldega/Roots.java
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 81/100 
+eblank
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/eblank/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/eblank/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2157) (out= 1355)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 94/100 
+egutier9
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/egutier9/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/egutier9/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots> Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2535) (out= 1624)(deflated 35%)
+rm Manifest
+chmod u+x Roots
+rm Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 75/100 
+eramitch
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/eramitch/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/eramitch/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2183) (out= 1367)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+eresendi
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/eresendi/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/eresendi/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 1058) (out= 650)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 62/100 
+erobles5
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/erobles5/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/erobles5/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 48/100 
+fconnor
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/fconnor/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/fconnor/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2446) (out= 1496)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+gbiles
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/gbiles/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/gbiles/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2249) (out= 1365)(deflated 39%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+gjorgens
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/gjorgens/Roots.java
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+grekhtma
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/grekhtma/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/grekhtma/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2851) (out= 1789)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm –f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 87/100 
+hpperez
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/hpperez/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/hpperez/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2479) (out= 1521)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+hslu
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/hslu/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/hslu/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2859) (out= 1789)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 91/100 
+hwang54
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/hwang54/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/hwang54/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2772) (out= 1760)(deflated 36%)
+rm Manifest
+chmod u+x Roots
+Roots.class: Roots.java
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 91/100 
+hwhitehi
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/hwhitehi/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/hwhitehi/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2323) (out= 1375)(deflated 40%)
+rm Manifest
+chmod u+x Roots
+rm –f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 99/100 
+jaakirby
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jaakirby/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jaakirby/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2152) (out= 1314)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+jahua
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 0/100 
+jaortega
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jaortega/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jaortega/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2889) (out= 1781)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+jceisner
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jceisner/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jceisner/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2232) (out= 1365)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 96/100 
+jcopher
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jcopher/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jcopher/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2514) (out= 1510)(deflated 39%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+jcsoper
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jcsoper/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jcsoper/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2258) (out= 1402)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+jdarby
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jdarby/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jdarby/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 93/100 
+jdekloe
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jdekloe/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jdekloe/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2778) (out= 1743)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 91/100 
+jdelgad4
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jdelgad4/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jdelgad4/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 65/100 
+jdlammer
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jdlammer/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jdlammer/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2222) (out= 1414)(deflated 36%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+jetrata
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jetrata/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jetrata/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2382) (out= 1443)(deflated 39%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+jfyang
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jfyang/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jfyang/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2252) (out= 1402)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+jgeri
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jgeri/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jgeri/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2355) (out= 1447)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+jjuanill
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jjuanill/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jjuanill/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Mainfest
+jar cvfm Roots Mainfest Roots.class
+added manifest
+adding: Roots.class(in = 1862) (out= 1174)(deflated 36%)
+rm Mainfest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 75/100 
+jlcarlos
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jlcarlos/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jlcarlos/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2570) (out= 1576)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+jlei4
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jlei4/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jlei4/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2821) (out= 1760)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 91/100 
+jmoral18
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jmoral18/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jmoral18/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2348) (out= 1407)(deflated 40%)
+rm Manifest
+chmod u+x Roots
+rm –f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 99/100 
+jmroger
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jmroger/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jmroger/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2364) (out= 1454)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+jmwaller
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jmwaller/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jmwaller/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2278) (out= 1376)(deflated 39%)
+rm Manifest
+chmod u+x Roots
+rm –f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+joisanch
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/joisanch/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/joisanch/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2737) (out= 1719)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 91/100 
+jorblumb
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jorblumb/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jorblumb/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2220) (out= 1357)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+josholme
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/josholme/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/josholme/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2839) (out= 1783)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+jran4
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jran4/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jran4/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2297) (out= 1390)(deflated 39%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+jsagrero
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jsagrero/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jsagrero/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2851) (out= 1789)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 87/100 
+jsono
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jsono/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jsono/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 93/100 
+jsvanden
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jsvanden/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jsvanden/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2329) (out= 1400)(deflated 39%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+jucsalaz
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jucsalaz/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jucsalaz/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2403) (out= 1466)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+jxu43
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jxu43/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jxu43/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2372) (out= 1449)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+jzhao26
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jzhao26/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/jzhao26/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2367) (out= 1446)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+kbarchar
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/kbarchar/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/kbarchar/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2729) (out= 1720)(deflated 36%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 91/100 
+kbrar
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/kbrar/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/kbrar/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+kdhua
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/kdhua/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/kdhua/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class 
+added manifest
+adding: Roots.class(in = 2210) (out= 1385)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+kehutran
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/kehutran/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/kehutran/MakeFile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 74/100 
+kflores2
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/kflores2/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/kflores2/MakefileRoots
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 46/100 
+kharpe2
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/kharpe2/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/kharpe2/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2586) (out= 1568)(deflated 39%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 97/100 
+kivaldez
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/kivaldez/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/kivaldez/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2863) (out= 1813)(deflated 36%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+kjeng
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/kjeng/Roots.java
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 85/100 
+krosengr
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/krosengr/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/krosengr/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2724) (out= 1582)(deflated 41%)
+rm Manifest
+chmod u+x Roots
+rm –f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+ktreggs
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 0/100 
+kyajohns
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/kyajohns/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/kyajohns/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2371) (out= 1432)(deflated 39%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+latanner
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/latanner/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/latanner/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2594) (out= 1633)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+lhyndman
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/lhyndman/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/lhyndman/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2189) (out= 1365)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 96/100 
+ljiang2
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/ljiang2/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/ljiang2/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2545) (out= 1516)(deflated 40%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+maecabre
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/maecabre/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/maecabre/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2266) (out= 1410)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+maegaspa
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/maegaspa/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/maegaspa/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 70/100 
+malngo
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/malngo/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/malngo/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2290) (out= 1430)(deflated 37%)
+rm Manifest 
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+mbonzo
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/mbonzo/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/mbonzo/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class 
+added manifest
+adding: Roots.class(in = 2483) (out= 1494)(deflated 39%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots 
+========== Specification Evaluation ==========
+ GRADE = 92/100 
+mdusanic
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/mdusanic/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/mdusanic/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 88/100 
+mflapoin
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/mflapoin/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/mflapoin/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2632) (out= 1598)(deflated 39%)
+rm Manifest 
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+mfulton
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/mfulton/Roots.java
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 29/100 
+mhoshko
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/mhoshko/Roots.java
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 79/100 
+migamboa
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/migamboa/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/migamboa/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2062) (out= 1276)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+mlagapa
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/mlagapa/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/mlagapa/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2233) (out= 1368)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 92/100 
+mmmayr
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/mmmayr/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/mmmayr/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2255) (out= 1403)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+========== Specification Evaluation ==========
+ GRADE = 81/100 
+momhassa
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/momhassa/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/momhassa/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2860) (out= 1790)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm –f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+mopowell
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/mopowell/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/mopowell/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2183) (out= 1361)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 96/100 
+mstorrs
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/mstorrs/Roots.java
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 46/100 
+mvillal4
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/mvillal4/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/mvillal4/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2218) (out= 1398)(deflated 36%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+mwoehr
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/mwoehr/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/mwoehr/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2231) (out= 1360)(deflated 39%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 75/100 
+nikalant
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 0/100 
+njiang8
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/njiang8/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/njiang8/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2257) (out= 1410)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+nmaines
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/nmaines/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/nmaines/Makefile
+========== Performance Evaluation ==========
+echo Main-class: GCD > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2179) (out= 1371)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+nsharma7
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/nsharma7/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/nsharma7/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2198) (out= 1371)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+ocastroa
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/ocastroa/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/ocastroa/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2461) (out= 1507)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+ocjohnso
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/ocjohnso/Roots.java
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 70/100 
+oyuen
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/oyuen/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/oyuen/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2816) (out= 1762)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 94/100 
+qzhang20
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/qzhang20/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/qzhang20/Makefile
+========== Performance Evaluation ==========
+rm -f GCD.class GCD
+========== Specification Evaluation ==========
+ GRADE = 88/100 
+qzhang21
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/qzhang21/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/qzhang21/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2198) (out= 1343)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -r Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 74/100 
+rccho
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rccho/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rccho/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2328) (out= 1404)(deflated 39%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+rdfelix
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rdfelix/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rdfelix/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2788) (out= 1613)(deflated 42%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 86/100 
+rflore8
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rflore8/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rflore8/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots  > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2786) (out= 1753)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+rgarrido
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rgarrido/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rgarrido/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2660) (out= 1662)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm –f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+rhersewo
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rhersewo/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rhersewo/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2096) (out= 1293)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm –f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 65/100 
+rkarpins
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rkarpins/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rkarpins/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 85/100 
+rlovejoy
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rlovejoy/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rlovejoy/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2832) (out= 1775)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 91/100 
+rlukkoor
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rlukkoor/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rlukkoor/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2308) (out= 1433)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 92/100 
+rmendezv
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rmendezv/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rmendezv/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2385) (out= 1446)(deflated 39%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+rpons
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rpons/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rpons/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2519) (out= 1496)(deflated 40%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+rsandhu2
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rsandhu2/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rsandhu2/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots  > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2278) (out= 1377)(deflated 39%)
+rm Manifest
+chmod u+x Roots
+rm –f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+rychoy
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rychoy/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/rychoy/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 1119) (out= 699)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 67/100 
+rzimpfer
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 0/100 
+salcheun
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/salcheun/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/salcheun/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2489) (out= 1499)(deflated 39%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+sapandey
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/sapandey/Roots.java
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+sasshah
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/sasshah/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/sasshah/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2784) (out= 1742)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+sdysart
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/sdysart/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/sdysart/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2279) (out= 1424)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+shester
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/shester/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/shester/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2863) (out= 1813)(deflated 36%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+smarinac
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/smarinac/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/smarinac/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2281) (out= 1391)(deflated 39%)
+rm Manifest
+chmod u+x GCD
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 89/100 
+smeus
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/smeus/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/smeus/Makefile
+========== Performance Evaluation ==========
+javac -Xlint Roots.java
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 52/100 
+soly
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/soly/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/soly/Makefile
+========== Performance Evaluation ==========
+echo Main-class: HelloWorld > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2850) (out= 1781)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 86/100 
+stang24
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/stang24/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/stang24/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2282) (out= 1429)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm –f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+stderami
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/stderami/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/stderami/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2034) (out= 1288)(deflated 36%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots Roots.class
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+summarti
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/summarti/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/summarti/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2733) (out= 1716)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+syaswen
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/syaswen/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/syaswen/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2723) (out= 1697)(deflated 37%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+tawilson
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/tawilson/Roots.java
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 63/100 
+tfraz
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/tfraz/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/tfraz/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > PA4
+jar cvfm Roots PA4 Roots.class
+added manifest
+adding: Roots.class(in = 2730) (out= 1713)(deflated 37%)
+rm PA4
+chmod u+x Roots 
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+tzhang24
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/tzhang24/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/tzhang24/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots>Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2209) (out= 1353)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 92/100 
+xzhang52
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/xzhang52/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/xzhang52/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class	
+added manifest
+adding: Roots.class(in = 2795) (out= 1770)(deflated 36%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 91/100 
+xzhang54
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/xzhang54/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/xzhang54/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2227) (out= 1375)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 91/100 
+xzhang57
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/xzhang57/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/xzhang57/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2548) (out= 1521)(deflated 40%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class GCD
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+zgalvez
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/zgalvez/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/zgalvez/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2313) (out= 1396)(deflated 39%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+zholbroo
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/zholbroo/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/zholbroo/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2551) (out= 1565)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 94/100 
+zihliu
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 0/100 
+zjiang7
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/zjiang7/Roots.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa4/zjiang7/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Roots > Manifest
+jar cvfm Roots Manifest Roots.class
+added manifest
+adding: Roots.class(in = 2206) (out= 1356)(deflated 38%)
+rm Manifest
+chmod u+x Roots
+rm -f Roots.class Roots
+========== Specification Evaluation ==========
+ GRADE = 92/100 
+
+DONE
+

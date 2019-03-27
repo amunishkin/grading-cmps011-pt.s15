@@ -1,0 +1,2747 @@
+
+aalmutaw
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/aalmutaw/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/aalmutaw/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2835) (out= 1711)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2835) (out= 1711)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+
+abellouz
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/abellouz/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/abellouz/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3219) (out= 1924)(deflated 40%)
+rm Manifest 
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3219) (out= 1924)(deflated 40%)
+rm Manifest 
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 85/100 
+
+abenabba
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/abenabba/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/abenabba/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Roots Manifest Queens.class
+added manifest
+adding: Queens.class(in = 1116) (out= 706)(deflated 36%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Roots Manifest Queens.class
+added manifest
+adding: Queens.class(in = 1116) (out= 706)(deflated 36%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 72/100 
+
+abuznego
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/abuznego/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/abuznego/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2656) (out= 1636)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2656) (out= 1636)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+
+acarndt
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/acarndt/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/acarndt/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3272) (out= 1962)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3272) (out= 1962)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+
+adoubekk
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/adoubekk/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/adoubekk/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2588) (out= 1597)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2588) (out= 1597)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+
+aenoble
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/aenoble/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/aenoble/Makefile.txt
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+
+alrumill
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/alrumill/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/alrumill/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2975) (out= 1851)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2975) (out= 1851)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 94/100 
+
+amalotai
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/amalotai/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/amalotai/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2737) (out= 1678)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2737) (out= 1678)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+
+amccree
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/amccree/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/amccree/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2785) (out= 1685)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2785) (out= 1685)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+
+amloeza
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/amloeza/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/amloeza/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2535) (out= 1576)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2535) (out= 1576)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 99/100 
+
+amorley
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/amorley/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/amorley/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2570) (out= 1582)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2570) (out= 1582)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 89/100 
+
+apblair
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 0/100 
+
+asakasai
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/asakasai/Makefile
+========== Performance Evaluation ==========
+rm -f Queens.class Queens
+========== Specification Evaluation ==========
+ GRADE = 5/100 
+
+atuason
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/atuason/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/atuason/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens.class
+Main-class: Queens.class
+jar cvfm Queens Manifest Queens.class
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens.class
+Main-class: Queens.class
+jar cvfm Queens Manifest Queens.class
+========== Specification Evaluation ==========
+ GRADE = 87/100 
+
+bdarling
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/bdarling/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/bdarling/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2386) (out= 1446)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens.class
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2386) (out= 1446)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 85/100 
+
+bmondrag
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/bmondrag/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/bmondrag/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3002) (out= 1813)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3002) (out= 1813)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 89/100 
+
+briverav
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/briverav/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/briverav/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2499) (out= 1572)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2499) (out= 1572)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 99/100 
+
+brpham
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/brpham/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/brpham/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2864) (out= 1754)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2864) (out= 1754)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+
+bseme
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/bseme/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/bseme/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3221) (out= 1922)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3221) (out= 1922)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 76/100 
+
+cabundis
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/cabundis/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/cabundis/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2418) (out= 1492)(deflated 38%)
+rm Manifest
+chmod u+x Queens 
+rm–f Queens.class Queens
+make: `Queens' is up to date.
+========== Specification Evaluation ==========
+ GRADE = 78/100 
+
+carriaga
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/carriaga/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/carriaga/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2562) (out= 1571)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm –f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2562) (out= 1571)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 82/100 
+
+ceaoliva
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/ceaoliva/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/ceaoliva/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > pa5
+jar cvfm Queens pa5 Queens.class
+added manifest
+adding: Queens.class(in = 2815) (out= 1688)(deflated 40%)
+rm pa5
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > pa5
+jar cvfm Queens pa5 Queens.class
+added manifest
+adding: Queens.class(in = 2815) (out= 1688)(deflated 40%)
+rm pa5
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 84/100 
+
+chackett
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/chackett/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/chackett/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2655) (out= 1602)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2655) (out= 1602)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+
+chmabake
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/chmabake/Queens.java
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 64/100 
+
+chshsmit
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/chshsmit/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/chshsmit/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2748) (out= 1606)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2748) (out= 1606)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+
+ckstone
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/ckstone/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/ckstone/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2351) (out= 1445)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2351) (out= 1445)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+
+clamaral
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/clamaral/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/clamaral/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 85/100 
+
+cnpena
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/cnpena/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/cnpena/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2994) (out= 1822)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2994) (out= 1822)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+
+coahoust
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/coahoust/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/coahoust/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2718) (out= 1614)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2718) (out= 1614)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+comhowar
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/comhowar/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/comhowar/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2638) (out= 1579)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm –f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2638) (out= 1579)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 92/100 
+
+cppizarr
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/cppizarr/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/cppizarr/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2452) (out= 1517)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2452) (out= 1517)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+
+cvu5
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/cvu5/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/cvu5/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 50/100 
+
+dakchin
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/dakchin/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/dakchin/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2743) (out= 1696)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2743) (out= 1696)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 88/100 
+
+dcejamar
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/dcejamar/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/dcejamar/Makefile
+========== Performance Evaluation ==========
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2050) (out= 1269)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2050) (out= 1269)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 67/100 
+
+dchiong
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/dchiong/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/dchiong/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3087) (out= 1814)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3087) (out= 1814)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 84/100 
+
+ddang3
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/ddang3/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/ddang3/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2872) (out= 1758)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2872) (out= 1758)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+dweldega
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/dweldega/Queens.java
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+
+eblank
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/eblank/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/eblank/Makefile
+========== Performance Evaluation ==========
+echo Main-Class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2511) (out= 1551)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-Class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2511) (out= 1551)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 99/100 
+
+egutier9
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/egutier9/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/egutier9/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2629) (out= 1578)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2629) (out= 1578)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 66/100 
+
+eramitch
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/eramitch/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/eramitch/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3181) (out= 1881)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3181) (out= 1881)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 86/100 
+
+ercorral
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/ercorral/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/ercorral/Makefile
+========== Performance Evaluation ==========
+javac -Xlint Queens.java
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+========== Specification Evaluation ==========
+ GRADE = 34/100 
+
+eresendi
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/eresendi/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/eresendi/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 932) (out= 578)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 932) (out= 578)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 68/100 
+
+fconnor
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/fconnor/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/fconnor/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2725) (out= 1661)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2725) (out= 1661)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 87/100 
+
+gbiles
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/gbiles/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/gbiles/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3293) (out= 1908)(deflated 42%)
+rm Manifest
+chmod u+x Queens
+rm –f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3293) (out= 1908)(deflated 42%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+
+gjorgens
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/gjorgens/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/gjorgens/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3272) (out= 1924)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+make: `Queens' is up to date.
+========== Specification Evaluation ==========
+ GRADE = 82/100 
+
+grekhtma
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/grekhtma/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/grekhtma/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 86/100 
+
+hpperez
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/hpperez/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/hpperez/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2569) (out= 1579)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2569) (out= 1579)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+
+hslu
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 0/100 
+
+hwang54
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/hwang54/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/hwang54/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2795) (out= 1642)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2795) (out= 1642)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 82/100 
+
+hwhitehi
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/hwhitehi/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/hwhitehi/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2601) (out= 1570)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm –f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2601) (out= 1570)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+
+jaakirby
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jaakirby/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jaakirby/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2709) (out= 1710)(deflated 36%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2709) (out= 1710)(deflated 36%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 75/100 
+
+jahua
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jahua/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jahua/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2028) (out= 1270)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2028) (out= 1270)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 84/100 
+
+jajurado
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jajurado/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jajurado/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 65/100 
+
+jaortega
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jaortega/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jaortega/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3142) (out= 1876)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3142) (out= 1876)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+
+jceisner
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jceisner/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jceisner/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2573) (out= 1582)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2573) (out= 1582)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+
+jchu27
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jchu27/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jchu27/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2658) (out= 1606)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2658) (out= 1606)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+
+jcopher
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jcopher/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jcopher/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3382) (out= 1983)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3382) (out= 1983)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jcsoper
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jcsoper/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jcsoper/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2377) (out= 1458)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2377) (out= 1458)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 75/100 
+
+jdarby
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jdarby/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jdarby/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2231) (out= 1391)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2231) (out= 1391)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+
+jdekloe
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jdekloe/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jdekloe/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3440) (out= 2056)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac - Xlint Queens.java
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+
+jdelgad4
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jdelgad4/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jdelgad4/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 818) (out= 564)(deflated 31%)
+rm Manifest
+chmod u+x Queens                                   
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 818) (out= 564)(deflated 31%)
+rm Manifest
+chmod u+x Queens                                   
+========== Specification Evaluation ==========
+ GRADE = 60/100 
+
+jdlammer
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jdlammer/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jdlammer/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2785) (out= 1687)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2785) (out= 1687)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+
+jetrata
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jetrata/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jetrata/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2702) (out= 1632)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2702) (out= 1632)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+
+jfyang
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jfyang/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jfyang/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2504) (out= 1518)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2504) (out= 1518)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+
+jgeri
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jgeri/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jgeri/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2633) (out= 1629)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2633) (out= 1629)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+
+jjuanill
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jjuanill/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jjuanill/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 1088) (out= 698)(deflated 35%)
+rm Manifest
+chmod u+x Queens
+rm –f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 1088) (out= 698)(deflated 35%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 73/100 
+
+jlcarlos
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jlcarlos/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jlcarlos/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2825) (out= 1712)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2825) (out= 1712)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jlei4
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jlei4/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jlei4/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3352) (out= 1995)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3352) (out= 1995)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 74/100 
+
+jmoral18
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jmoral18/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jmoral18/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2529) (out= 1539)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm –f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2529) (out= 1539)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 89/100 
+
+jmroger
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jmroger/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jmroger/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2423) (out= 1479)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2423) (out= 1479)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+
+jmwaller
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jmwaller/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jmwaller/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2689) (out= 1619)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm –f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2689) (out= 1619)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 99/100 
+
+joisanch
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/joisanch/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/joisanch/Makefile
+========== Performance Evaluation ==========
+javac-Xlint Queens.java
+rm -f Queens.class Queens
+javac-Xlint Queens.java
+========== Specification Evaluation ==========
+ GRADE = 57/100 
+
+jorblumb
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jorblumb/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jorblumb/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2278) (out= 1405)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2278) (out= 1405)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 97/100 
+
+josholme
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/josholme/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/josholme/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3212) (out= 1908)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3212) (out= 1908)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 89/100 
+
+jran4
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jran4/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jran4/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2857) (out= 1661)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2857) (out= 1661)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+
+jsagrero
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jsagrero/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jsagrero/Makefile
+========== Performance Evaluation ==========
+echo Main-class: HelloWorld > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3228) (out= 1919)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm –f HelloWorld.class HelloWorld
+make: `Queens' is up to date.
+========== Specification Evaluation ==========
+ GRADE = 83/100 
+
+jsono
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jsono/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jsono/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 92/100 
+
+jsvanden
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jsvanden/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jsvanden/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2585) (out= 1624)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2585) (out= 1624)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 89/100 
+
+jucsalaz
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jucsalaz/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jucsalaz/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3254) (out= 1947)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3254) (out= 1947)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+jxu43
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jxu43/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jxu43/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2891) (out= 1705)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2891) (out= 1705)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 86/100 
+
+jzhao26
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jzhao26/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/jzhao26/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2675) (out= 1613)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2675) (out= 1613)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 65/100 
+
+kapalaci
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/kapalaci/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/kapalaci/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2407) (out= 1484)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm –f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2407) (out= 1484)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 75/100 
+
+kbarchar
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/kbarchar/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/kbarchar/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3126) (out= 1878)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3126) (out= 1878)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 86/100 
+
+kbrar
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/kbrar/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/kbrar/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 79/100 
+
+kdhua
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/kdhua/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/kdhua/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3221) (out= 1913)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3221) (out= 1913)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 89/100 
+
+kehutran
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/kehutran/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/kehutran/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3228) (out= 1915)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens.class
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3228) (out= 1915)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 89/100 
+
+kflores2
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/kflores2/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/kflores2/MakefileQueens
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 47/100 
+
+kharpe2
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/kharpe2/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/kharpe2/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2807) (out= 1710)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2807) (out= 1710)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 75/100 
+
+kivaldez
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/kivaldez/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/kivaldez/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3228) (out= 1921)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3228) (out= 1921)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 84/100 
+
+kjeng
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/kjeng/Queens.java
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 49/100 
+
+krosengr
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/krosengr/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/krosengr/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2196) (out= 1364)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+rm –f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2196) (out= 1364)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 70/100 
+
+ktreggs
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/ktreggs/Queens.java
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 77/100 
+
+kyajohns
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/kyajohns/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/kyajohns/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2677) (out= 1632)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2677) (out= 1632)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 92/100 
+
+latanner
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/latanner/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/latanner/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3219) (out= 1927)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3219) (out= 1927)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 89/100 
+
+lhyndman
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/lhyndman/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/lhyndman/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2501) (out= 1533)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2501) (out= 1533)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 85/100 
+
+ljiang2
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/ljiang2/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/ljiang2/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2816) (out= 1650)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2816) (out= 1650)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 85/100 
+
+maecabre
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/maecabre/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/maecabre/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3401) (out= 2053)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3401) (out= 2053)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+
+maegaspa
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/maegaspa/Queens.java
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 67/100 
+
+malngo
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/malngo/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/malngo/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2711) (out= 1657)(deflated 38%)
+rm Manifest 
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2711) (out= 1657)(deflated 38%)
+rm Manifest 
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+
+mbonzo
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/mbonzo/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/mbonzo/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class 
+added manifest
+adding: Queens.class(in = 2421) (out= 1488)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens 
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class 
+added manifest
+adding: Queens.class(in = 2421) (out= 1488)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 75/100 
+
+mdusanic
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/mdusanic/Queens.java
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 94/100 
+
+mflapoin
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/mflapoin/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/mflapoin/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2958) (out= 1755)(deflated 40%)
+rm Manifest 
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2958) (out= 1755)(deflated 40%)
+rm Manifest 
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 85/100 
+
+mfulton
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/mfulton/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/mfulton/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 71/100 
+
+migamboa
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/migamboa/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/migamboa/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > File
+jar cvfm Queens File Queens.class
+added manifest
+adding: Queens.class(in = 1528) (out= 946)(deflated 38%)
+chmod u+x Queens
+rm File
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > File
+jar cvfm Queens File Queens.class
+added manifest
+adding: Queens.class(in = 1528) (out= 946)(deflated 38%)
+chmod u+x Queens
+rm File
+========== Specification Evaluation ==========
+ GRADE = 68/100 
+
+mlagapa
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/mlagapa/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/mlagapa/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2578) (out= 1588)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2578) (out= 1588)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 87/100 
+
+mmmayr
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/mmmayr/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/mmmayr/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2537) (out= 1529)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2537) (out= 1529)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 70/100 
+
+momhassa
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/momhassa/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/momhassa/Makefile.mak
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 81/100 
+
+mopowell
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/mopowell/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/mopowell/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2900) (out= 1669)(deflated 42%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2900) (out= 1669)(deflated 42%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+
+mstorrs
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/mstorrs/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/mstorrs/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 57/100 
+
+mvillal4
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/mvillal4/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/mvillal4/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3180) (out= 1892)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3180) (out= 1892)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 89/100 
+
+mwoehr
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/mwoehr/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/mwoehr/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2542) (out= 1557)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2542) (out= 1557)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+
+nikalant
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 0/100 
+
+njiang8
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/njiang8/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/njiang8/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2886) (out= 1685)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2886) (out= 1685)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 86/100 
+
+nmaines
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/nmaines/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/nmaines/Makefile
+========== Performance Evaluation ==========
+echo Main-clas: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2654) (out= 1581)(deflated 40%)
+rm Manifest
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-clas: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2654) (out= 1581)(deflated 40%)
+rm Manifest
+========== Specification Evaluation ==========
+ GRADE = 94/100 
+
+nsharma7
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/nsharma7/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/nsharma7/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3042) (out= 1755)(deflated 42%)
+rm Manifest
+chmod u+x Queens
+make: `Queens' is up to date.
+========== Specification Evaluation ==========
+ GRADE = 88/100 
+
+ocastroa
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/ocastroa/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/ocastroa/QueensT.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/ocastroa/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class QueensT.class
+added manifest
+adding: Queens.class(in = 2237) (out= 1326)(deflated 40%)
+adding: QueensT.class(in = 513) (out= 371)(deflated 27%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+rm -f QueensT.class QueensT
+javac -Xlint Queens.java QueensT.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class QueensT.class
+added manifest
+adding: Queens.class(in = 2237) (out= 1326)(deflated 40%)
+adding: QueensT.class(in = 513) (out= 371)(deflated 27%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 82/100 
+
+ocjohnso
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/ocjohnso/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/ocjohnso/Makefile
+========== Performance Evaluation ==========
+echo "Main-class: Queens" > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2528) (out= 1578)(deflated 37%)
+chmod u+x Queens
+rm Manifest
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo "Main-class: Queens" > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2528) (out= 1578)(deflated 37%)
+chmod u+x Queens
+rm Manifest
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+oyuen
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/oyuen/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/oyuen/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3226) (out= 1917)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3226) (out= 1917)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 84/100 
+
+pgarciaa
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/pgarciaa/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/pgarciaa/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2868) (out= 1702)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2868) (out= 1702)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 97/100 
+
+qzhang20
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/qzhang20/Queens.java
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+
+qzhang21
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/qzhang21/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/qzhang21/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2816) (out= 1652)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2816) (out= 1652)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 85/100 
+
+rccho
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/rccho/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/rccho/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2491) (out= 1538)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2491) (out= 1538)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+
+rflore8
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/rflore8/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/rflore8/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3228) (out= 1922)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3228) (out= 1922)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 79/100 
+
+rgarrido
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/rgarrido/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/rgarrido/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3209) (out= 1903)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm –f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3209) (out= 1903)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 85/100 
+
+rhersewo
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/rhersewo/Queens.java
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 44/100 
+
+rkarpins
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/rkarpins/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/rkarpins/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+
+rlovejoy
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 0/100 
+
+rlukkoor
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/rlukkoor/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/rlukkoor/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3222) (out= 1919)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3222) (out= 1919)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 85/100 
+
+rpons
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/rpons/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/rpons/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2418) (out= 1514)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2418) (out= 1514)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 80/100 
+
+rsandhu2
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/rsandhu2/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/rsandhu2/Makefile
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+
+rychoy
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/rychoy/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/rychoy/Makefile
+========== Performance Evaluation ==========
+javac -Xlint Queens.java
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+========== Specification Evaluation ==========
+ GRADE = 52/100 
+
+rzimpfer
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/rzimpfer/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/rzimpfer/MakefileQ
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 88/100 
+
+salcheun
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/salcheun/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/salcheun/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2705) (out= 1697)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2705) (out= 1697)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+
+sapandey
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/sapandey/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/sapandey/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2667) (out= 1625)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2667) (out= 1625)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 92/100 
+
+sasshah
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/sasshah/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/sasshah/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queen Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3308) (out= 1963)(deflated 40%)
+rm Manifest
+chmod u+x Queen
+rm -f Queens.class Queen
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queen Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3308) (out= 1963)(deflated 40%)
+rm Manifest
+chmod u+x Queen
+========== Specification Evaluation ==========
+ GRADE = 82/100 
+
+sdysart
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/sdysart/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/sdysart/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2814) (out= 1652)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2814) (out= 1652)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+shester
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/shester/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/shester/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens  > Manifest
+jar cvfm Queens  Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3228) (out= 1919)(deflated 40%)
+rm Manifest
+chmod u+x Queens 
+rm -f Queens.class Queens 
+javac -Xlint Queens.java
+echo Main-class: Queens  > Manifest
+jar cvfm Queens  Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3228) (out= 1919)(deflated 40%)
+rm Manifest
+chmod u+x Queens 
+========== Specification Evaluation ==========
+ GRADE = 84/100 
+
+smarinac
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/smarinac/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/smarinac/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2805) (out= 1719)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2805) (out= 1719)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+
+smeus
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/smeus/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/smeus/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Roots Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3227) (out= 1921)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Roots
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Roots Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3227) (out= 1921)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 83/100 
+
+soly
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/soly/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/soly/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3239) (out= 1943)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+make: `Queens' is up to date.
+========== Specification Evaluation ==========
+ GRADE = 88/100 
+
+stang24
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/stang24/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/stang24/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2668) (out= 1694)(deflated 36%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2668) (out= 1694)(deflated 36%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 95/100 
+
+stderami
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/stderami/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/stderami/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2910) (out= 1737)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens Queens.class
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2910) (out= 1737)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 86/100 
+
+summarti
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/summarti/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/summarti/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2785) (out= 1690)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2785) (out= 1690)(deflated 39%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+
+syaswen
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/syaswen/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/syaswen/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3260) (out= 1992)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 3260) (out= 1992)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 75/100 
+
+tawilson
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/tawilson/Queens.java
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 73/100 
+
+tfraz
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/tfraz/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/tfraz/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > pa5
+jar cvfm Queens pa5 Queens.class
+added manifest
+adding: Queens.class(in = 2785) (out= 1696)(deflated 39%)
+rm pa5
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > pa5
+jar cvfm Queens pa5 Queens.class
+added manifest
+adding: Queens.class(in = 2785) (out= 1696)(deflated 39%)
+rm pa5
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 90/100 
+
+tzhang24
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/tzhang24/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/tzhang24/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens>Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2969) (out= 1720)(deflated 42%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens>Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2969) (out= 1720)(deflated 42%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 86/100 
+
+xzhang52
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/xzhang52/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/xzhang52/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2733) (out= 1622)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2733) (out= 1622)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 85/100 
+
+xzhang54
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/xzhang54/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/xzhang54/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2643) (out= 1653)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2643) (out= 1653)(deflated 37%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 91/100 
+
+xzhang57
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/xzhang57/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/xzhang57/Makefile
+========== Performance Evaluation ==========
+make: Nothing to be done for `Queens'.
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+========== Specification Evaluation ==========
+ GRADE = 84/100 
+
+zgalvez
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/zgalvez/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/zgalvez/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2331) (out= 1438)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2331) (out= 1438)(deflated 38%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 70/100 
+
+zholbroo
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/zholbroo/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/zholbroo/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2862) (out= 1692)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2862) (out= 1692)(deflated 40%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 100/100 
+
+zihliu
+========== Performance Evaluation ==========
+========== Specification Evaluation ==========
+ GRADE = 0/100 
+
+zjiang7
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/zjiang7/Queens.java
+/afs/cats.ucsc.edu/class/cmps011-pt.s15/pa5/zjiang7/Makefile
+========== Performance Evaluation ==========
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2881) (out= 1681)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+rm -f Queens.class Queens
+javac -Xlint Queens.java
+echo Main-class: Queens > Manifest
+jar cvfm Queens Manifest Queens.class
+added manifest
+adding: Queens.class(in = 2881) (out= 1681)(deflated 41%)
+rm Manifest
+chmod u+x Queens
+========== Specification Evaluation ==========
+ GRADE = 86/100 
+
+DONE
+
